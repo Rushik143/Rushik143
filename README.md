@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am passionate about technology and love explorin
 ## 👀 About Me
 
 - 🌱 I’m a recent graduate in Computer Science Engineering, eager to continue learning and exploring new technologies.
-- 💞️ I’m interested in collaborating on projects related to programming.
+- 💞️ I’m interested in collaborating on projects related to coding.
 - 📫 How to reach me: rushikpatil1@gmail.com
 
 ## ⚡ Fun Fact
