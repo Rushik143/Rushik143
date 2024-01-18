@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Rushik143
+# 👋 Hi, I’m @Rushikesh_Patil
 
 Welcome to my GitHub profile! I am passionate about technology and love exploring new areas in the tech world.
 
